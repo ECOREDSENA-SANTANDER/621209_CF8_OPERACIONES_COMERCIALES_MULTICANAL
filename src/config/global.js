@@ -114,7 +114,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CF6_621209_DU.pdf',
+        download: 'downloads/CF8_621209_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -195,8 +195,7 @@ export default {
     {
       referencia:
         'Blanco, L. A. (2013). Ética integral. Bogotá, Colombia: Ecoe Ediciones.',
-      link:
-        'https://www.google.com.co/books/edition/%C3%89tica_integral/uXIAAgAAQBAJ?hl=es&gbpv=1&dq=%C3%89tica+integral&pg=PA25&printsec=frontcover',
+      link: 'https://www.google.com.co/books/edition/%C3%89tica_integral/uXIAAgAAQBAJ?hl=es&gbpv=1&dq=%C3%89tica+integral&pg=PA25&printsec=frontcover',
     },
     {
       referencia:
@@ -216,8 +215,7 @@ export default {
     {
       referencia:
         'Protección de Datos y Seguridad de la Información. (n.d.). (n.p.): Grupo Editorial RA-MA.',
-      link:
-        'https://www.google.com.co/books/edition/Protecci%C3%B3n_de_Datos_y_Seguridad_de_la_I/To6fDwAAQBAJ?hl=es&gbpv=1&dq=La+protecci%C3%B3n+de+datos.&printsec=frontcover',
+      link: 'https://www.google.com.co/books/edition/Protecci%C3%B3n_de_Datos_y_Seguridad_de_la_I/To6fDwAAQBAJ?hl=es&gbpv=1&dq=La+protecci%C3%B3n+de+datos.&printsec=frontcover',
     },
     {
       referencia:
