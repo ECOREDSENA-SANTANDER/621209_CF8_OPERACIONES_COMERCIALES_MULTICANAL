@@ -134,21 +134,6 @@
         .col-6.col-md-6.col-lg-3
          img(src='@/assets/curso/temas/tema2/imagen2.png', alt='')
   
-      .row.justify-content-center.align-items-center.mb-5.mt-5
-        .col-sm-12.col-md-12.col-lg-10
-              .tarjeta.color-acento-contenido.p-3
-                .row.justify-content-around.align-items-center
-                  .col-auto
-                    img(src="@/assets/curso/temas/tema1/imgcajavideo.png").img65
-                  .col
-                    .row.justify-content-between.align-items-center
-                      .col.mb-3.mb-sm-0
-                        h4.mb-1 Registro de productos
-                        p.mb-0 Registro y escaneo de productos para el cálculo del total de la compra y continuar con el proceso de venta. ¡Ingrese!
-                      .col-sm-auto
-                        a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=nYWj9Tru7mc" target="_blank")
-                          span Ir al enlace
-                          i.fas.fa-video
   
       .mb-4.d-flex.ps-lg-0
         .d-flex.flex-wrap.align-items-center.pe-3.bg-img-blue

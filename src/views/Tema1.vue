@@ -93,7 +93,7 @@
           .cajon.color-primario.p-4.mb-4
             p.mt-2 Para el correcto funcionamiento y buen desempeño en el puesto de pago, es recomendable seguir los siguientes pasos:
   
-      .row.fondo1.align-items-center.p-3.mb-5(data-aos="fade-down")
+      .row.fondo1.align-items-center.p-3.mb-2(data-aos="fade-down")
         .col-lg-12.col-md-12.col-12.px-lg-5.px-4
           .row.justify-content-center.mb-4
   
@@ -172,23 +172,9 @@
                 .col-md-4
                   img(src='@/assets/curso/temas/tema1/sly1-12.png', alt='Texto que describa la imagen')
   
-      .row.justify-content-center.align-items-center.mb-5.mt-5
-        .col-sm-12.col-md-12.col-lg-10
-              .tarjeta.color-acento-contenido.p-3
-                .row.justify-content-around.align-items-center
-                  .col-auto
-                    img(src="@/assets/curso/temas/tema1/imgcajavideo.png").img65
-                  .col
-                    .row.justify-content-between.align-items-center
-                      .col.mb-3.mb-sm-0
-                        h4.mb-1 Proceso general del cajero
-                        p.mb-0 Video ilustrativo: aquí podrá profundizar sobre la temática. ¡Consúltelo!
-                      .col-sm-auto
-                        a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=nYWj9Tru7mc" target="_blank")
-                          span Ir al enlace
-                          i.fas.fa-video
       
-      .row.justify-content-center.align-items-center.mb-5.mt-5
+      
+      .row.justify-content-center.align-items-center.mb-5
         .col-8.col-md-5.col-lg-3
           img(src='@/assets/curso/temas/tema1/imagen4.png', alt='')
         .col-sm-12.col-md-12.col-lg-9.mb-4.mt-4       
