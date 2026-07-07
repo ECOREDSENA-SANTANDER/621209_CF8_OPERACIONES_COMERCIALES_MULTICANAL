@@ -65,7 +65,7 @@
               img.p-3(src="@/assets/curso/temas/tema2/tbotra1-4.png" alt="")
             .col-md-7.mb-4.mb-md-0
               p Los comprobantes impresos de apertura de caja se almacenan según los controles administrativos y de seguridad establecidos.
-        .py-4.py-md-5(titulo="Apertura de caja" :icono="require('@/assets/curso/temas/tema2/tbimg1-5.png')")
+        .py-4.py-md-5(titulo="Registro de apertura y cierre" :icono="require('@/assets/curso/temas/tema2/tbimg1-5.png')")
           .row.align-items-center.justify-content-center
             .col-md-2.col-6.mb-4.mb-md-0
               img.p-3(src="@/assets/curso/temas/tema2/tbotra1-5.png" alt="")
@@ -103,7 +103,7 @@
               .row.justify-content-center.align-items-center.p-4
                 .col-lg-6.col-md-12.col-sm-12
                   h4.mb-4 El datáfono
-                  p.mb-4 El datáfono es el equipo que permite procesar los pagos cuando los clientes utilizan tarjetas de débito o crédito. Su función principal es comunicarse con los bancos y las entidades financieras para autorizar y completar las transacciones. Algunos datáfonos incluyen un teclado o PIN PAD separado para que los clientes ingresen su clave personal de manera segura.
+                  p.mb-4 El datáfono es el equipo que permite procesar los pagos cuando los clientes utilizan tarjetas de débito o crédito. Su función principal es comunicarse con los bancos y las entidades financieras para autorizar y completar las transacciones. Algunos datáfonos incluyen un teclado o #[em PIN pad] separado para que los clientes ingresen su clave personal de manera segura.
                 .col-lg-5.col-md-6.col-12
                   img.mt-2(alt="" src="@/assets/curso/temas/tema2/sly1-2.png")
               .row.justify-content-center.align-items-center.p-4
@@ -129,7 +129,7 @@
               img.icon(src='@/assets/curso/temas/icon.svg') 
           p La distribución del teclado y su correcto uso permiten operar fácilmente la terminal, brindar un mejor servicio a los clientes y diferenciar los medios de pago para cumplir con lo establecido por la Dirección de Impuestos y Aduanas Nacionales (DIAN).
           .cajon.color-acento-contenido.p-4.mb-4
-            p En el siguiente video, se presenta el proceso de registro de productos, como uno de los ejemplos de teclados utilizados en #[em retail].
+            p El uso del teclado en la terminal #[em POS] facilita el registro de productos y la selección de funciones asociadas a la operación del puesto de pago, como medios de pago, impuestos, descuentos, departamentos o códigos de vendedor.
             p #[b Nota:] se debe considerar que no hay un estándar único para este tipo de operaciones.
         .col-6.col-md-6.col-lg-3
          img(src='@/assets/curso/temas/tema2/imagen2.png', alt='')
@@ -149,7 +149,7 @@
               p  se entiende por sistema de información transaccional aquel diseñado para recolectar, modificar, almacenar y recuperar información generada por las transacciones en una organización.
               i.fas.fa-quote-right
           
-      p.mb-4 En el #[em retail], un sistema transaccional se refiere al conjunto organizado de personas, procedimientos, software, bases de datos y dispositivos para registrar transacciones comerciales consumadas.
+      p.mb-4 En el #[em retail], un sistema transaccional se refiere al conjunto organizado de personas, procedimientos, #[em software], bases de datos y dispositivos para registrar transacciones comerciales consumadas.
   
       .row.justify-content-center.align-items-center
         .col-sm-12.col-md-12.col-lg-9.mt-4

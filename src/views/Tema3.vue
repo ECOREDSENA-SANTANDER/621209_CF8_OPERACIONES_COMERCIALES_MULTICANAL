@@ -52,29 +52,27 @@
         .col-sm-12.col-md-12.col-lg-9.mt-4
           .row
             .col-lg-6
-              p.mb-5.mt-5
-              .mb-4
-                .d-flex.flex-wrap.align-items-center.pe-3.bg-img-blue
-                  h3.col.px-4.mb-0.mx-2.text-white(data-aos="zoom-in-left") Tarjetas débito y crédito
+              .titulo-secundario.mb-4(data-aos="zoom-in-left")
+                span.decorador
+                h4.mb-0 Tarjetas débito y crédito
           p Las tarjetas de crédito permiten financiar compras, pagar a plazos y realizar adquisiciones sin necesidad de desembolsar el total del pago de inmediato, siempre que no se exceda el límite concedido por el banco. Estas tarjetas ofrecen flexibilidad y conveniencia para gestionar pagos y gastos.
           p Por otro lado, las tarjetas de débito deducen el importe directamente de la cuenta del titular, descontando el saldo disponible de manera inmediata. Esto asegura que las compras se realicen dentro de los límites de los fondos disponibles, evitando el endeudamiento.
     
       .row.justify-content-center.align-items-center.mb-5
         .col-sm-12.col-md-12.col-lg-9
-          .mb-4.d-flex.ps-lg-0
-            .d-flex.flex-wrap.align-items-center.pe-3.bg-img-blue
-              h3.col.px-4.mb-0.mx-5.text-white(data-aos="zoom-in-left") Códigos de pago
-              img.icon(src='@/assets/curso/temas/icon.svg') 
+          .titulo-secundario.mb-4(data-aos="zoom-in-left")
+            span.decorador
+            h4.mb-0 Códigos de pago
           p Los códigos de pago son números de varios dígitos que autorizan el abono de facturas a través de medios de pago electrónicos. Estos pueden incluir servicios como: Gana, Baloto, Su Chance, los mismos #[em retail] o un cajero automático. Por lo general, el código de pago electrónico se encuentra en el extremo superior derecho de la primera hoja de la factura. Estos códigos facilitan transacciones rápidas y seguras, mejorando la eficiencia en el pago de servicios y productos.
         .col-9.col-md-7.col-lg-3
           img(src='@/assets/curso/temas/tema3/imagen2.png', alt='')
   
       .row.justify-content-center.align-items-center
-          .mb-4.d-flex.ps-lg-0
-            .d-flex.flex-wrap.align-items-center.pe-3.bg-img-blue
-              h3.col.px-4.mb-0.mx-5.text-white(data-aos="zoom-in-left") Otros medios de pago
-              img.icon(src='@/assets/curso/temas/icon.svg') 
-          p.mb-5 Comprender y ofrecer una variedad de medios de pago es esencial para proporcionar una experiencia de compra flexible y accesible a todos los clientes, adaptándose a sus preferencias y mejorando su satisfacción. En el #[em retail], se destacan otros medios de pago alternativos a los tradicionales, que, de igual manera, permiten acceder a la compra de un producto, adquisición de un bien o servicio, o cancelación de deudas. Estos son:
+        .col-sm-12.col-md-12.col-lg-12
+          .titulo-secundario.mb-4(data-aos="zoom-in-left")
+            span.decorador
+            h4.mb-0 Otros medios de pago
+        p.mb-5 Comprender y ofrecer una variedad de medios de pago es esencial para proporcionar una experiencia de compra flexible y accesible a todos los clientes, adaptándose a sus preferencias y mejorando su satisfacción. En el #[em retail], se destacan otros medios de pago alternativos a los tradicionales, que, de igual manera, permiten acceder a la compra de un producto, adquisición de un bien o servicio, o cancelación de deudas. Estos son:
   
       .row.justify-content-center.mb-5
         .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0

@@ -138,7 +138,7 @@ export default {
     {
       termino: 'Cajero automático',
       significado:
-        'Máquina sumadora para uso de comerciantes, que llena diversos cometidos, pues indica el importe de la compra al cliente, imprime un cupón justificativo del gasto, inscribe y suma el importe de las ventas, dificulta los desfalcos y permite guardar momentáneamente el dinero.',
+        'dispositivo electrónico que permite a los usuarios realizar operaciones bancarias o financieras de manera autónoma, como retiros de dinero, consultas de saldo, transferencias, pagos o depósitos, mediante el uso de una tarjeta, clave u otro medio de autenticación.',
     },
     {
       termino: 'Crédito',
@@ -215,7 +215,7 @@ export default {
     },
     {
       referencia:
-        'Protección de Datos y Seguridad de la Información. (n.d.). (n.p.): Grupo Editorial RA-MA.',
+        'Pérez, J. C. M. (s. f.). Protección de Datos y Seguridad de la Información. Grupo Editorial Ra-Ma. ',
       link:
         'https://www.google.com.co/books/edition/Protecci%C3%B3n_de_Datos_y_Seguridad_de_la_I/To6fDwAAQBAJ?hl=es&gbpv=1&dq=La+protecci%C3%B3n+de+datos.&printsec=frontcover',
     },
@@ -299,7 +299,7 @@ export default {
         },
         {
           nombre: 'Leonardo Castellanos Rodriguez',
-          cargo: 'Desarrolladora <i>full-stack</i>',
+          cargo: 'Desarrollador <i>full-stack</i>',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
@@ -313,13 +313,13 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Laura Paola Gelvez Manosalva',
-          cargo: 'Validadora de recursos educativos digitales',
+          nombre: 'Erika Daniela Manrique Rueda ',
+          cargo: 'Validadora y vinculadora de recursos educativos digitales  ',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
           nombre: 'Sandra Liliana Cristancho Cruz',
-          cargo: 'Evaluadora para contenidos inclusivos y accesibles',
+          cargo: 'Evaluadora de contenidos inclusivos y accesibles ',
           centro: 'Centro Agroturístico - Regional Santander',
         },
       ],
