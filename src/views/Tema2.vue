@@ -103,7 +103,7 @@
               .row.justify-content-center.align-items-center.p-4
                 .col-lg-6.col-md-12.col-sm-12
                   h4.mb-4 El datáfono
-                  p.mb-4 El datáfono es el equipo que permite procesar los pagos cuando los clientes utilizan tarjetas de débito o crédito. Su función principal es comunicarse con los bancos y las entidades financieras para autorizar y completar las transacciones. Algunos datáfonos incluyen un teclado o #[em PIN pad] separado para que los clientes ingresen su clave personal de manera segura.
+                  p.mb-4 El datáfono es el equipo que permite procesar los pagos cuando los clientes utilizan tarjetas de débito o crédito. Su función principal es comunicarse con los bancos y las entidades financieras para autorizar y completar las transacciones. Algunos datáfonos incluyen un teclado o PIN #[em pad] separado para que los clientes ingresen su clave personal de manera segura.
                 .col-lg-5.col-md-6.col-12
                   img.mt-2(alt="" src="@/assets/curso/temas/tema2/sly1-2.png")
               .row.justify-content-center.align-items-center.p-4
@@ -129,7 +129,7 @@
               img.icon(src='@/assets/curso/temas/icon.svg') 
           p La distribución del teclado y su correcto uso permiten operar fácilmente la terminal, brindar un mejor servicio a los clientes y diferenciar los medios de pago para cumplir con lo establecido por la Dirección de Impuestos y Aduanas Nacionales (DIAN).
           .cajon.color-acento-contenido.p-4.mb-4
-            p El uso del teclado en la terminal #[em POS] facilita el registro de productos y la selección de funciones asociadas a la operación del puesto de pago, como medios de pago, impuestos, descuentos, departamentos o códigos de vendedor.
+            p El uso del teclado en la terminal POS facilita el registro de productos y la selección de funciones asociadas a la operación del puesto de pago, como medios de pago, impuestos, descuentos, departamentos o códigos de vendedor.
             p #[b Nota:] se debe considerar que no hay un estándar único para este tipo de operaciones.
         .col-6.col-md-6.col-lg-3
          img(src='@/assets/curso/temas/tema2/imagen2.png', alt='')

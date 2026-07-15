@@ -29,9 +29,9 @@
       #t_4_1.titulo-segundo.mb-5
         h2 4.1 Seguridad y salud en el trabajo
   
-      p La Seguridad y Salud en el Trabajo se refiere a la prevención de lesiones y enfermedades causadas por las condiciones laborales, así como a la protección y promoción de la salud de los trabajadores. Para los cajeros en el punto de pago, es crucial implementar medidas específicas para garantizar su bienestar y seguridad, por ejemplo, adecuación de sistemas de vigilancia, prácticas seguras del manejo de efectivo, ergonomía, pausas activas, y un área de trabajo saludable.
+      p La seguridad y salud en el trabajo se refiere a la prevención de lesiones y enfermedades causadas por las condiciones laborales, así como a la protección y promoción de la salud de los trabajadores. Para los cajeros en el punto de pago, es crucial implementar medidas específicas para garantizar su bienestar y seguridad, por ejemplo, adecuación de sistemas de vigilancia, prácticas seguras del manejo de efectivo, ergonomía, pausas activas, y un área de trabajo saludable.
       p Garantizar un ambiente seguro para el cajero en el puesto de pago y óptimas condiciones para el cuidado de su salud, son factores que propician su productividad y satisfacción laboral.
-      p.mb-4 Consulte el video que se presenta a continuación, relacionado con las generalidades de la Seguridad y Salud en el Trabajo, y el proceso integral que unifica las funciones de esta área en un sistema de gestión:
+      p.mb-4 Consulte el video que se presenta a continuación, relacionado con las generalidades de la seguridad y salud en el trabajo, y el proceso integral que unifica las funciones de esta área en un sistema de gestión:
   
       .row.justify-content-center.align-items-center.mb-3
         .col-sm-12.col-md-12.col-lg-10

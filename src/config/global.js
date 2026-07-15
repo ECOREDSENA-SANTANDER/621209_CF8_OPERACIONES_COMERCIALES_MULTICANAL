@@ -158,7 +158,7 @@ export default {
     {
       termino: 'Pagos por aplicación móvil',
       significado:
-        'Esta es una aplicación (app) que te permite pagar desde tu celular sin llevar las tarjetas contigo, de forma más fácil y segura, en comercios con datáfonos habilitados. Para hacer uso de esta tecnología debes descargar la aplicación en tu <em>Smartphone</em>, crear una cuenta e inscribir las tarjetas.',
+        'aplicación que permite realizar pagos desde el teléfono celular sin necesidad de portar las tarjetas, de forma más fácil y segura, en comercios con datáfonos habilitados. Para hacer uso de esta tecnología, se debe descargar la aplicación en el dispositivo, crear una cuenta e inscribir las tarjetas.',
     },
     {
       termino: 'Reembolso de caja menor',
@@ -168,7 +168,7 @@ export default {
     {
       termino: 'Saldo disponible',
       significado:
-        'Su saldo disponible es el dinero en su cuenta de ahorros o cuenta corriente que está actualmente a su disposición para hacer compras, extracciones, etc. Este saldo se actualiza durante el día con las transacciones que haga.',
+        'corresponde al dinero depositado en una cuenta de ahorros o corriente que se encuentra disponible para realizar compras, retiros u otras transacciones. Este saldo se actualiza durante el día con las transacciones efectuadas.',
     },
     {
       termino: 'Tarjeta de crédito',
@@ -188,7 +188,7 @@ export default {
     {
       termino: 'Transacción rechazada',
       significado:
-        'Usted deposita un cheque emitido para usted, pero la persona que lo libró no tiene fondos suficientes para cubrirlo. En este caso, si ya se le acreditó el depósito, se lo debitaremos de su cuenta, ya que no había fondos suficientes.',
+        'se presenta cuando se deposita un cheque emitido a nombre del titular de la cuenta y la persona que lo emitió no dispone de fondos suficientes para cubrir su valor. En este caso, si el depósito ya fue acreditado, el valor correspondiente será debitado de la cuenta debido a la insuficiencia de fondos.',
     },
   ],
   referencias: [
