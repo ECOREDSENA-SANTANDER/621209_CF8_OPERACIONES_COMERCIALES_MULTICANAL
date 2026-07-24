@@ -112,73 +112,73 @@
                   h4 Revisar
                   p Revisar que la caja se encuentre conectada a una toma de corriente y que funcione perfectamente.
                 .col-md-4
-                  img(src='@/assets/curso/temas/tema1/sly1-1.png', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/temas/tema1/sly1-1.png', alt='')
               .row.justify-content-center.align-items-center(titulo="")
                 .col-md-6.mb-4.mb-md-0
                   h4 Verificar
                   p Verificar si tiene papel suficiente para la impresión de facturas debe tener los bordes rectos para introducirse con mayor facilidad en el carrete.
                 .col-md-4
-                  img(src='@/assets/curso/temas/tema1/sly1-2.png', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/temas/tema1/sly1-2.png', alt='')
               .row.justify-content-center.align-items-center(titulo="")
                 .col-md-6.mb-4.mb-md-0
                   h4 Abrir y cerrar
                   p Abrir y cerrar el cajón de la caja registradora y revisar que se encuentre vacía, verificar el contenido de la base que entrega el supervisor.
                 .col-md-4
-                  img(src='@/assets/curso/temas/tema1/sly1-3.png', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/temas/tema1/sly1-3.png', alt='')
               .row.justify-content-center.align-items-center(titulo="")
                 .col-md-6.mb-4.mb-md-0
                   h4 Validar
                   p Validar el buen funcionamiento del #[em software] y los botones del tablero de control, ingresar usuario y contraseña, en muchas ocasiones se ingresa el código del supervisor.
                 .col-md-4
-                  img(src='@/assets/curso/temas/tema1/sly1-4.png', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/temas/tema1/sly1-4.png', alt='')
               .row.justify-content-center.align-items-center(titulo="")
                 .col-md-6.mb-4.mb-md-0
                   h4 Preguntar
                   p Preguntar al cliente el número de su documento de identidad para fidelización ya que se acumulan puntos o tienen bonos de descuento. El almacén debe tener un registro de clientes en base de datos.
                 .col-md-4
-                  img(src='@/assets/curso/temas/tema1/sly1-5.png', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/temas/tema1/sly1-5.png', alt='')
               .row.justify-content-center.align-items-center(titulo="")
                 .col-md-6.mb-4.mb-md-0
                   h4 Registrar
                   p Registrar los productos uno a uno, pasando los códigos de barras por los escáneres o lectores ópticos que leen la información del producto. Si no es posible, se puede realizar manualmente.
                 .col-md-4
-                  img(src='@/assets/curso/temas/tema1/sly1-6.png', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/temas/tema1/sly1-6.png', alt='')
               .row.justify-content-center.align-items-center(titulo="")
                 .col-md-6.mb-4.mb-md-0
                   h4 Tipo de moneda
                   p En algunos casos se debe oprimir botón para tipo de moneda, impuestos, descuentos, departamento, código del vendedor.
                 .col-md-4
-                  img(src='@/assets/curso/temas/tema1/sly1-7.png', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/temas/tema1/sly1-7.png', alt='')
               .row.justify-content-center.align-items-center(titulo="")
                 .col-md-6.mb-4.mb-md-0
                   h4 Totalizar e informar
                   p Luego de pasar todos los productos, totalizar e informar la forma de pago del cliente: efectivo, tarjeta, bonos, puntos. Si es en efectivo la caja informa el valor a devolver.
                 .col-md-4
-                  img(src='@/assets/curso/temas/tema1/sly1-8.png', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/temas/tema1/sly1-8.png', alt='')
               .row.justify-content-center.align-items-center(titulo="")
                 .col-md-6.mb-4.mb-md-0
                   h4 Caja registradora cerrada
                   p Es importante mantener la caja registradora cerrada después de la transacción para evitar hurtos y robos.
                 .col-md-4
-                  img(src='@/assets/curso/temas/tema1/sly1-9.png', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/temas/tema1/sly1-9.png', alt='')
               .row.justify-content-center.align-items-center(titulo="")
                 .col-md-6.mb-4.mb-md-0
                   h4 Corregir errores
                   p Corregir errores al anular una venta, cambiar el código de un producto, o reembolsar una venta. Muchas veces es necesario llamar al supervisor.
                 .col-md-4
-                  img(src='@/assets/curso/temas/tema1/sly1-10.png', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/temas/tema1/sly1-10.png', alt='')
               .row.justify-content-center.align-items-center(titulo="")
                 .col-md-6.mb-4.mb-md-0
                   h4 Reportes de ventas
                   p Obtener reportes de ventas y hacer balance de la caja registradora, al finalizar la jornada para verificar los montos a entregar al supervisor.
                 .col-md-4
-                  img(src='@/assets/curso/temas/tema1/sly1-11.png', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/temas/tema1/sly1-11.png', alt='')
               .row.justify-content-center.align-items-center(titulo="")
                 .col-md-6.mb-4.mb-md-0
                   h4 Imprimir la información
                   p Imprimir la información del balance de caja para verificar con lo que tiene físicamente: efectivo, cupones, #[em voucher] de tarjetas, puntos, etc. Todo debe coincidir para entregar informe al supervisor.
                 .col-md-4
-                  img(src='@/assets/curso/temas/tema1/sly1-12.png', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/temas/tema1/sly1-12.png', alt='')
   
       
       

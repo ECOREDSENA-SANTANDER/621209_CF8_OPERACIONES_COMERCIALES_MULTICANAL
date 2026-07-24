@@ -18,32 +18,32 @@
         .tarjeta.bggris.p-4
           .row.justify-content-center.mb-3
             .col-lg-5.col-md-3.col-5
-              img.mt-2(src='@/assets/curso/temas/tema3/slyf1-1.png' alt='AvatarTop')
+              img.mt-2(src='@/assets/curso/temas/tema3/slyf1-1.png' alt='')
           p.text-center.mt-4 #[b Pago en efectivo:] pagos realizados con dinero físico, con cheque bancario al portador o con algún otro medio físico similar.
         .tarjeta.bggris.p-4
           .row.justify-content-center.mb-3
             .col-lg-5.col-md-3.col-5
-              img.mt-2(src='@/assets/curso/temas/tema3/slyf1-2.png' alt='AvatarTop')
+              img.mt-2(src='@/assets/curso/temas/tema3/slyf1-2.png' alt='')
           p.text-center.mt-4 Pago con tarjeta de crédito o débito.
         .tarjeta.bggris.p-4
           .row.justify-content-center.mb-3
             .col-lg-5.col-md-3.col-5
-              img.mt-2(src='@/assets/curso/temas/tema3/slyf1-3.png' alt='AvatarTop')
+              img.mt-2(src='@/assets/curso/temas/tema3/slyf1-3.png' alt='')
           p.text-center.mt-4 Pago por PayPal.
         .tarjeta.bggris.p-4
           .row.justify-content-center.mb-3
             .col-lg-5.col-md-3.col-5
-              img.mt-2(src='@/assets/curso/temas/tema3/slyf1-4.png' alt='AvatarTop')
+              img.mt-2(src='@/assets/curso/temas/tema3/slyf1-4.png' alt='')
           p.text-center.mt-4 Pago a través del dispositivo móvil.
         .tarjeta.bggris.p-4
           .row.justify-content-center.mb-3
             .col-lg-5.col-md-3.col-5
-              img.mt-2(src='@/assets/curso/temas/tema3/slyf1-5.png' alt='AvatarTop')
+              img.mt-2(src='@/assets/curso/temas/tema3/slyf1-5.png' alt='')
           p.text-center.mt-4 Bonos.
         .tarjeta.bggris.p-4
           .row.justify-content-center.mb-3
             .col-lg-5.col-md-3.col-5
-              img.mt-2(src='@/assets/curso/temas/tema3/slyf1-6.png' alt='AvatarTop')
+              img.mt-2(src='@/assets/curso/temas/tema3/slyf1-6.png' alt='')
           p.text-center.mt-4 Pagos en línea.
   
       .row.justify-content-center.align-items-center.mb-5.mt-5
@@ -79,7 +79,7 @@
           .crd_hover_txt(data-aos="flip-left").borde-redondo
             .crd_hover_txt--img
               figure
-                img(src="@/assets/curso/temas/tema3/tar1-1.png", alt="alt")
+                img(src="@/assets/curso/temas/tema3/tar1-1.png", alt="")
             .crd_hover_txt--body.cambio
               h4.mb-3.text-center Bonos
               p.mb-0.text-center.text-white Los bonos son títulos que otorgan el derecho a recibir pagos periódicos a cambio de entregar una cantidad de dinero en el momento de su emisión. Estos títulos pueden ser emitidos por un Estado, un gobierno local, un municipio o una empresa con el objetivo de financiarse mediante deuda.
@@ -88,7 +88,7 @@
           .crd_hover_txt(data-aos="flip-left").borde-redondo
             .crd_hover_txt--img
               figure
-                img(src="@/assets/curso/temas/tema3/tar1-2.png", alt="alt")
+                img(src="@/assets/curso/temas/tema3/tar1-2.png", alt="")
             .crd_hover_txt--body.cambio
               h4.mb-3.text-center Puntos
               p.mb-0.text-center.text-white Los puntos son una forma de recompensa que se acumula al comprar en una red determinada. Estos puntos pueden canjearse por productos como alimentos, viajes, actividades recreativas, ropa, calzado, accesorios, y otros en los #[em retailers] aliados o en las tiendas #[em online].
@@ -97,7 +97,7 @@
           .crd_hover_txt(data-aos="flip-left").borde-redondo
             .crd_hover_txt--img
               figure
-                img(src="@/assets/curso/temas/tema3/tar1-3.png", alt="alt")
+                img(src="@/assets/curso/temas/tema3/tar1-3.png", alt="")
             .crd_hover_txt--body.cambio
               h4.mb-3.text-center Medios adicionales
               p.mb-0.text-center.text-white Existen otros medios de pago que ofrecen alternativas a los métodos tradicionales: moneda virtual (criptomonedas y otros activos digitales), contra reembolso, en línea sin necesidad directa de tarjeta, y a través de dispositivos móviles (#[em eWallet y contactless]).
@@ -109,7 +109,7 @@
             figure
               .video
                 iframe(iframe width="560" height="315" src="https://www.youtube.com/embed/0te5WfUyur0?si=w2X8tX-RXNMbuJ-d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
-              figcaption Video: Razones para utilizar el pago en línea
+              figcaption Video. Razones para utilizar el pago en línea
   
   </template>
 

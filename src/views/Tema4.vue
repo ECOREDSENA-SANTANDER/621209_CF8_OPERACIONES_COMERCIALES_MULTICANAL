@@ -38,11 +38,11 @@
           figure
             .video
               iframe(iframe width="560" height="315" src="https://www.youtube.com/embed/RRSIdOpBJs4?si=x4TZRdBlI2KsWLoA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
-            figcaption Sistema de Gestión de la Seguridad y Salud en el Trabajo
+            figcaption Video. Sistema de Gestión de la Seguridad y Salud en el Trabajo
   
       separador
       #t_4_2.titulo-segundo.mb-5
-        h2 4.2 Leyes de protección de datos
+        h2 4.2 Protección de datos personales
   
       .row.justify-content-center.align-items-center.mb-2
         .col-6.col-md-2.col-lg-2
@@ -50,7 +50,8 @@
             .col-12.col-md-11.col-lg-8
               img.mt-2.mb-2(src="@/assets/curso/temas/tema4/imagen1.png" alt="")
         .col-sm-12.col-md-12.col-lg-10
-          p Cuando se habla de datos personales, se hace referencia a toda la información asociada a una persona que permite su identificación. Las leyes de protección de datos están diseñadas para salvaguardar esta información, asegurando que se maneje de manera segura y respetuosa, protegiendo la privacidad de los individuos.
+          p En Colombia, la protección de los datos personales se encuentra regulada principalmente por la Ley 1581 de 2012 y el Decreto 1074 de 2015. Estas normas establecen los principios, derechos y obligaciones relacionados con la recolección, el almacenamiento, el uso y la circulación de la información personal. 
+          p Los datos personales corresponden a la información que identifica a una persona o que puede asociarse con ella. En el puesto de pago, esta información puede solicitarse para elaborar una factura, registrar al cliente en un programa de fidelización, aplicar un beneficio o gestionar una transacción.
   
   
     .container.tarjeta.tarjeta--blanca.bg02.p-4.p-md-5.borde-recto-abajo.borde-recto-arriba
@@ -66,28 +67,28 @@
               .crd_hover_txt(data-aos="flip-left").borde-redondo.bgblanco
                 .row.align-items-center.justify-content-center
                   .col-4.col-md-3.col-lg-5
-                    img.mt-3(src="@/assets/curso/temas/tema4/icon1-1.png", alt="alt")
+                    img.mt-3(src="@/assets/curso/temas/tema4/icon1-1.png", alt="")
                 .row.align-items-center.justify-content-center
                   .col-10
-                    p.mt-2.mb-3.text-center #[b Documento de identidad]
+                    p.mt-2.mb-3.text-center #[b Documento de identidad.]
   
             .col-xl-4.col-lg-7.col-md-7.col-11.mb-4.mb-xl-0
               .crd_hover_txt(data-aos="flip-left").borde-redondo.bgblanco
                 .row.align-items-center.justify-content-center
                   .col-4.col-md-3.col-lg-5
-                    img.mt-3(src="@/assets/curso/temas/tema4/icon1-2.png", alt="alt")
+                    img.mt-3(src="@/assets/curso/temas/tema4/icon1-2.png", alt="")
                 .row.align-items-center.justify-content-center
                   .col-10
-                    p.mt-3.mb-3.text-center #[b Lugar de nacimiento]
+                    p.mt-3.mb-3.text-center #[b Datos de contacto.]
   
             .col-xl-4.col-lg-7.col-md-7.col-11.mb-4.mb-xl-0
               .crd_hover_txt(data-aos="flip-left").borde-redondo.bgblanco
                 .row.align-items-center.justify-content-center
                   .col-4.col-md-3.col-lg-5
-                    img.mt-2(src="@/assets/curso/temas/tema4/icon1-3.png", alt="alt")
+                    img.mt-2(src="@/assets/curso/temas/tema4/icon1-3.png", alt="")
                 .row.align-items-center.justify-content-center
                   .col-10
-                    p.mt-2.mb-3.text-center #[b Estado civil]
+                    p.mt-2.mb-3.text-center #[b Datos de facturación.]
   
           .row.align-items-center.justify-content-center.mt-3
   
@@ -95,40 +96,70 @@
               .crd_hover_txt(data-aos="flip-left").borde-redondo.bgblanco
                 .row.align-items-center.justify-content-center
                   .col-4.col-md-3.col-lg-5
-                    img.mt-3(src="@/assets/curso/temas/tema4/icon1-4.png", alt="alt")
+                    img.mt-3(src="@/assets/curso/temas/tema4/icon1-4.png", alt="")
                 .row.align-items-center.justify-content-center
                   .col-10
-                    p.mt-3.mb-4.text-center #[b Edad]
+                    p.mt-3.mb-4.text-center #[b Información de fidelización.]
   
             .col-xl-4.col-lg-7.col-md-7.col-11.mb-4.mb-xl-0
               .crd_hover_txt(data-aos="flip-left").borde-redondo.bgblanco
                 .row.align-items-center.justify-content-center
                   .col-4.col-md-3.col-lg-5
-                    img.mt-3(src="@/assets/curso/temas/tema4/icon1-5.png", alt="alt")
+                    img.mt-3(src="@/assets/curso/temas/tema4/icon1-6.png", alt="")
                 .row.align-items-center.justify-content-center
                   .col-10
-                    p.mt-3.mb-4.text-center #[b Lugar de residencia]
+                    p.mt-3.mb-4.text-center #[b Historial de compras.]
   
             .col-xl-4.col-lg-7.col-md-7.col-11.mb-4.mb-xl-0
               .crd_hover_txt(data-aos="flip-left").borde-redondo.bgblanco
                 .row.align-items-center.justify-content-center
                   .col-4.col-md-3.col-lg-5
-                    img.mt-3(src="@/assets/curso/temas/tema4/icon1-6.png", alt="alt")
+                    img.mt-3(src="@/assets/curso/temas/tema4/icon1-5.png", alt="")
                 .row.align-items-center.justify-content-center
                   .col-12
-                    p.mt-2.mb-3.text-center #[b Trayectoria académica, laboral, o profesional ]
+                    p.mt-2.mb-3.text-center #[b Información de la transacción.]
   
         .col-11.col-md-10.col-lg-6
           img(src="@/assets/curso/temas/tema4/imagen2.png" alt="")
   
-      p.mt-4 También existe información más sensible, como el estado de salud, características físicas, ideología política y vida sexual de una persona. En el #[em retail], es común solicitar esta información por razones de estrategia de mercadeo, con el objetivo de desarrollar estrategias basadas en las preferencias de los clientes en cuanto a marcas, productos, olores y empaques, entre otros aspectos. Esta recopilación de datos permite personalizar la experiencia del cliente y mejorar la efectividad de las campañas de #[em marketing].
+      p.mt-4 Existen datos sensibles que pueden afectar la intimidad de una persona o generar discriminación, como los relacionados con la salud, el origen racial o étnico, la orientación política, las convicciones religiosas, la afiliación sindical, la vida sexual y los datos biométricos. 
+      p Su tratamiento está restringido y, salvo las excepciones establecidas por la ley, requiere autorización explícita del titular. Estos datos no deben solicitarse en el puesto de pago cuando no sean necesarios para la finalidad informada al cliente. 
   
     .container.tarjeta.tarjeta--blanca.p-4.p-md-5.borde-recto-arriba
-  
-      .row.justify-content-center.align-items-center.mb-2
-        .col-lg-10
+      .row.justify-content-center.align-items-center.mb-5
+        .col-lg-4.mb-3.col-8
+          img(src="@/assets/curso/temas/tema4/img01.png" alt="")
+        .col-lg-8
+          h5 Manejo de datos en el puesto de pago
+          p Antes de solicitar información personal, se debe informar al cliente la finalidad para la cual será utilizada y solicitar su autorización cuando corresponda.
+          p Durante la atención, el cajero debe:
+          ul.lista-ul--color
+            li.d-flex
+              i.fas.fa-check-circle
+              p.mb-0 Solicitar únicamente los datos necesarios.
+
+            li.d-flex
+              i.fas.fa-check-circle
+              p.mb-0 Utilizar la información para la finalidad informada.
+
+            li.d-flex
+              i.fas.fa-check-circle
+              p.mb-0 Evitar repetir en voz alta o exponer datos personales.
+
+            li.d-flex
+              i.fas.fa-check-circle
+              p.mb-0 Proteger la confidencialidad de la información.
+
+            li.d-flex
+              i.fas.fa-check-circle
+              p.mb-0 Utilizar solamente los sistemas autorizados por la organización.
+
+            li.d-flex
+              i.fas.fa-check-circle
+              p.mb-0 Reportar cualquier pérdida, divulgación o uso inadecuado de los datos.
+
           .cajon.color-acento-contenido.p-4.mb-4
-            p Para lograr un manejo adecuado de toda esta información, es esencial solicitar la autorización del cliente comprador. La protección de datos se centra en encontrar un equilibrio entre la información que las personas desean mantener privada y la que están dispuestas a compartir públicamente. Este consentimiento asegura que el manejo de datos personales sea transparente y respetuoso con la privacidad de los individuos, permitiendo a las empresas utilizar esta información de manera ética y conforme a las leyes de protección de datos.
+            p Los titulares tienen derecho a conocer, actualizar y rectificar su información, solicitar prueba de la autorización otorgada, conocer el uso dado a sus datos y solicitar su supresión o revocar la autorización cuando sea procedente. 
   
   </template>
 

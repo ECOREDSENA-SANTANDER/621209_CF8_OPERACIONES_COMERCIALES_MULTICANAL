@@ -82,7 +82,7 @@ export default {
           },
           {
             numero: '4.2',
-            titulo: 'Leyes de protección de datos',
+            titulo: 'Protección de datos personales',
             hash: 't_4_2',
           },
         ],

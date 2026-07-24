@@ -190,7 +190,6 @@ export default {
           mensaje_correcto: 'Ha acertado la respuesta.',
           mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
         },
-
         {
           id: 6,
           texto: 'La terminal POS se utiliza en el puesto de pago para:',
@@ -352,30 +351,29 @@ export default {
         },
         {
           id: 11,
-          texto: 'El dispositivo <i>shut</i> cumple la función de:',
+          texto: 'El sistema neumático o <i>shut</i> se usa para:',
           imagen: require('@/assets/actividad/imagen1.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto:
-                'Clasificar automáticamente los billetes por denominación.',
+              texto: 'Leer el código de barras de los productos.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Imprimir comprobantes de pago.',
+              texto: 'Pesar mercancías en el puesto de pago.',
               esCorrecta: false,
             },
             {
               id: 'c',
               texto:
-                'Transportar de forma segura el dinero desde la caja hasta la tesorería.',
+                'Transportar cápsulas con dinero desde el puesto de pago hacia caja general o tesorería.',
               esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'Registrar códigos de barras de los productos.',
+              texto: 'Registrar la clave personal del cliente.',
               esCorrecta: false,
             },
           ],
@@ -385,31 +383,30 @@ export default {
 
         {
           id: 12,
-          texto:
-            'En un establecimiento de <i>retail</i>, el <i>software</i> de caja permite principalmente:',
+          texto: 'El sistema transaccional en <i>retail</i> se entiende como:',
           imagen: require('@/assets/actividad/imagen2.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Controlar únicamente la iluminación del punto de venta.',
+              texto:
+                'Un mueble destinado a exhibir productos cerca de la caja.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto:
-                'Administrar exclusivamente la apertura de puertas automáticas.',
+              texto: 'Un listado manual de precios sin relación con ventas.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Reemplazar totalmente la atención del cajero.',
+              texto: 'Una norma exclusiva de seguridad ambiental.',
               esCorrecta: false,
             },
             {
               id: 'd',
               texto:
-                'Registrar ventas, controlar inventarios y administrar las operaciones del punto de pago.',
+                'Un conjunto de personas, procedimientos, <i>software</i>, bases de datos y dispositivos para registrar transacciones comerciales.',
               esCorrecta: true,
             },
           ],
@@ -419,29 +416,30 @@ export default {
 
         {
           id: 13,
-          texto: 'El arqueo de caja tiene como propósito principal:',
+          texto:
+            'Un puesto de trabajo adecuado para el cajero debe considerar:',
           imagen: require('@/assets/actividad/imagen3.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
               texto:
-                'Verificar que el dinero existente coincida con los registros y detectar diferencias de <i>stock</i> de efectivo.',
+                'Ergonomía, comunicación, cajonera, efectivo suficiente, visibilidad y <i>stock</i> de útiles.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Eliminar la necesidad de registrar ventas.',
+              texto: 'Ausencia de silla para evitar pausas durante la jornada.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Reemplazar los comprobantes de pago.',
+              texto: 'Uso permanente de celulares personales en caja.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Modificar automáticamente los precios de los productos.',
+              texto: 'Ventanillas que impidan la comunicación con el cliente.',
               esCorrecta: false,
             },
           ],
@@ -451,30 +449,29 @@ export default {
 
         {
           id: 14,
-          texto:
-            'En el <i>retail</i>, una adecuada atención al cliente permite:',
+          texto: 'El manejo de valores en el <i>retail</i> se relaciona con:',
           imagen: require('@/assets/actividad/imagen4.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Reducir la comunicación entre el cliente y la empresa.',
+              texto: 'La exhibición visual de productos en góndolas.',
               esCorrecta: false,
             },
             {
               id: 'b',
               texto:
-                'Fortalecer la satisfacción, fidelización y confianza del consumidor.',
+                'Las operaciones, registros y administración de efectivo y otros medios de pago.',
               esCorrecta: true,
             },
             {
               id: 'c',
-              texto: 'Eliminar la necesidad de procesos de servicio.',
+              texto: 'La decoración de vitrinas exteriores.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Reemplazar el proceso de facturación.',
+              texto: 'La selección de proveedores de mercancía.',
               esCorrecta: false,
             },
           ],
@@ -484,30 +481,29 @@ export default {
 
         {
           id: 15,
-          texto:
-            'La comunicación asertiva durante el servicio al cliente favorece principalmente:',
+          texto: 'Los medios de pago son importantes porque:',
           imagen: require('@/assets/actividad/imagen05.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'La generación de conflictos con los clientes.',
+              texto: 'Eliminan la necesidad de entregar comprobantes.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'La disminución de la confianza en el establecimiento.',
+              texto: 'Impiden que el cliente elija cómo cancelar su compra.',
               esCorrecta: false,
             },
             {
               id: 'c',
               texto:
-                'La comprensión de las necesidades del cliente y una mejor experiencia de compra.',
+                'Permiten cancelar bienes, servicios o deudas de forma física o electrónica.',
               esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'La eliminación de protocolos de atención.',
+              texto: 'Solo funcionan cuando se paga en efectivo.',
               esCorrecta: false,
             },
           ],
@@ -518,30 +514,30 @@ export default {
         {
           id: 16,
           texto:
-            'Cuando se presenta una reclamación de un cliente, el cajero debe:',
+            'La diferencia principal entre tarjeta débito y crédito es que:',
           imagen: require('@/assets/actividad/imagen6.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Ignorar la situación para evitar demoras.',
+              texto: 'Ambas funcionan únicamente con dinero físico.',
               esCorrecta: false,
             },
             {
               id: 'b',
               texto:
-                'Responder con discusiones para defender el procedimiento.',
+                'La tarjeta débito financia compras y la tarjeta crédito descuenta de inmediato.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Remitir siempre al cliente sin escucharlo.',
+              texto: 'Ninguna requiere autorización de la entidad financiera.',
               esCorrecta: false,
             },
             {
               id: 'd',
               texto:
-                'Escuchar, mantener una actitud respetuosa y seguir el procedimiento establecido por la empresa.',
+                'La tarjeta crédito financia compras; la tarjeta débito descuenta de la cuenta disponible.',
               esCorrecta: true,
             },
           ],
@@ -551,29 +547,29 @@ export default {
 
         {
           id: 17,
-          texto: 'El manejo adecuado del efectivo busca principalmente:',
+          texto: 'Los códigos de pago permiten:',
           imagen: require('@/assets/actividad/imagen7.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
               texto:
-                'Reducir riesgos de pérdida, fraude o errores en las transacciones.',
+                'Autorizar pagos electrónicos de facturas de forma rápida y segura.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'Eliminar la necesidad de arqueos de caja.',
+              texto: 'Eliminar la identificación del cliente comprador.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Permitir que cualquier persona manipule la caja.',
+              texto: 'Registrar productos sin precio en el inventario.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Reemplazar los controles internos.',
+              texto: 'Desactivar alarmas de seguridad en las salidas.',
               esCorrecta: false,
             },
           ],
@@ -583,30 +579,30 @@ export default {
 
         {
           id: 18,
-          texto:
-            'La confidencialidad en el manejo de la información del cliente implica:',
+          texto: 'La seguridad y salud en el trabajo para cajeros busca:',
           imagen: require('@/assets/actividad/imagen8.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Compartir libremente la información con otros clientes.',
+              texto: 'Aumentar los tiempos de espera del cliente.',
               esCorrecta: false,
             },
             {
               id: 'b',
               texto:
-                'Proteger los datos personales y utilizarlos únicamente para los fines autorizados.',
+                'Prevenir riesgos laborales mediante condiciones seguras y saludables.',
               esCorrecta: true,
             },
             {
               id: 'c',
-              texto: 'Publicar la información en redes sociales.',
+              texto: 'Omitir pausas activas durante la jornada.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Eliminar todos los registros de compra.',
+              texto:
+                'Evitar el uso de prácticas seguras en el manejo de efectivo.',
               esCorrecta: false,
             },
           ],
@@ -617,29 +613,29 @@ export default {
         {
           id: 19,
           texto:
-            'El cumplimiento de los protocolos de seguridad en caja permite:',
+            'En protección de datos, antes de usar información personal del cliente se debe:',
           imagen: require('@/assets/actividad/imagen9.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Incrementar los errores operativos.',
+              texto: 'Compartirla libremente con terceros.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Eliminar el control del efectivo.',
+              texto: 'Solicitar datos sensibles sin explicación.',
               esCorrecta: false,
             },
             {
               id: 'c',
               texto:
-                'Proteger los recursos de la empresa y disminuir los riesgos durante la operación.',
+                'Solicitar autorización y manejar la información de forma transparente y segura.',
               esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'Evitar el registro de las ventas.',
+              texto: 'Publicarla para fines comerciales sin consentimiento.',
               esCorrecta: false,
             },
           ],
@@ -649,31 +645,29 @@ export default {
 
         {
           id: 20,
-          texto: 'La calidad del servicio en caja se refleja cuando:',
+          texto: 'Un ejemplo de dato personal es:',
           imagen: require('@/assets/actividad/imagen10.png'),
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'Se atiende únicamente a los clientes frecuentes.',
+              texto: 'El color del uniforme del cajero.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto:
-                'Se prioriza la rapidez sobre la exactitud de las transacciones.',
+              texto: 'La ubicación de la caja registradora.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto:
-                'Se omite la entrega de comprobantes para agilizar el proceso.',
+              texto: 'El tipo de papel de impresión.',
               esCorrecta: false,
             },
             {
               id: 'd',
               texto:
-                'Se brinda una atención ágil, amable, segura y conforme a los procedimientos establecidos.',
+                'El documento de identidad, lugar de residencia o trayectoria académica de una persona.',
               esCorrecta: true,
             },
           ],

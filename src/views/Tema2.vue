@@ -174,61 +174,61 @@
             SlyderA(tipo="b").slider-a-custom(data-aos="zoom-in-left")
               .row.align-items-center.justify-content-center.p-4
                 .col-md-3.col-6
-                  img(src='@/assets/curso/temas/tema2/slya1-1.png', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/temas/tema2/slya1-1.png', alt='')
                 .col-md-8.mb-4.mb-md-0
                   h4.mt-3 Escritorio
                   p Escritorio pequeño donde se ubica la caja registradora y se pueden ordenar adecuadamente los utensilios de trabajo.
               .row.align-items-center.justify-content-center.p-4
                 .col-md-3.col-6
-                  img(src='@/assets/curso/temas/tema2/slya1-2.png', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/temas/tema2/slya1-2.png', alt='')
                 .col-md-8.mb-4.mb-md-0
                   h4.mt-3 Comunicación
                   p Equipo de comunicación para establecer contacto con los supervisores en caso de que estén ubicados lejos del punto de pago.
               .row.align-items-center.justify-content-center.p-4
                 .col-md-3.col-6
-                  img(src='@/assets/curso/temas/tema2/slya1-3.png', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/temas/tema2/slya1-3.png', alt='')
                 .col-md-8.mb-4.mb-md-0
                   h4.mt-3 Cajonera
                   p Cajonera ubicada en la caja registradora, aquí se introduce y organiza el dinero, cuenta con divisiones para billetes y monedas de diferentes denominaciones.
               .row.align-items-center.justify-content-center.p-4
                 .col-md-3.col-6
-                  img(src='@/assets/curso/temas/tema2/slya1-4.png', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/temas/tema2/slya1-4.png', alt='')
                 .col-md-8.mb-4.mb-md-0
                   h4.mt-3 #[em Stock]
                   p #[em Stock] adecuado de los útiles y provisiones necesarios para el desempeño de las funciones del cargo: plumas, grapas, engrapadora, clips, facturas, notas de venta, bolsas de diferentes tamaños, etc. Este #[em stock] debe ser manejado por el propio cajero.
               .row.align-items-center.justify-content-center.p-4
                 .col-md-3.col-6
-                  img(src='@/assets/curso/temas/tema2/slya1-5.png', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/temas/tema2/slya1-5.png', alt='')
                 .col-md-8.mb-4.mb-md-0
                   h4.mt-3 Silla
                   p Silla cómoda, alta y con ruedas, ergonómica respecto a la posición de la caja registradora.
               .row.align-items-center.justify-content-center.p-4
                 .col-md-3.col-6
-                  img(src='@/assets/curso/temas/tema2/slya1-6.png', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/temas/tema2/slya1-6.png', alt='')
                 .col-md-8.mb-4.mb-md-0
                   h4.mt-3 Precios
                   p Listado de precios de los artículos en caso de no contar con códigos de barras. Aunque se cuente con ellos, es preciso que los cajeros estén preparados para cualquier contingencia.
               .row.align-items-center.justify-content-center.p-4
                 .col-md-3.col-6
-                  img(src='@/assets/curso/temas/tema2/slya1-7.png', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/temas/tema2/slya1-7.png', alt='')
                 .col-md-8.mb-4.mb-md-0
                   h4.mt-3 Ventanilla
                   p Si existe una ventanilla, el canal de comunicación no debe obligar al cajero y al cliente a agacharse para poder comunicarse. Deben evitarse los micrófonos. Los demás clientes no deben enterarse de la transacción.
               .row.align-items-center.justify-content-center.p-4
                 .col-md-3.col-6
-                  img(src='@/assets/curso/temas/tema2/slya1-8.png', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/temas/tema2/slya1-8.png', alt='')
                 .col-md-8.mb-4.mb-md-0
                   h4.mt-3 Efectivo
                   p Suficiente cantidad de efectivo y monedas, tanto en cantidad como en denominaciones.
               .row.align-items-center.justify-content-center.p-4
                 .col-md-3.col-6
-                  img(src='@/assets/curso/temas/tema2/slya1-9.png', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/temas/tema2/slya1-9.png', alt='')
                 .col-md-8.mb-4.mb-md-0
                   h4.mt-3 Visibilidad
                   p Deben evitarse las ventanillas en las que el cliente no pueda ver al cajero ni observar el manejo de su dinero.
               .row.align-items-center.justify-content-center.p-4
                 .col-md-3.col-6
-                  img(src='@/assets/curso/temas/tema2/slya1-10.png', alt='Texto que describa la imagen')
+                  img(src='@/assets/curso/temas/tema2/slya1-10.png', alt='')
                 .col-md-8.mb-4.mb-md-0
                   h4.mt-3 No se recomienda
                   p En el punto de pago, no se recomienda el manejo de teléfonos convencionales, celulares, faxes y escáneres.
@@ -242,7 +242,7 @@
           p La pandemia de 2020 aceleró el movimiento hacia una economía más digital, y los minoristas necesitan continuar adaptándose para avanzar en estos tiempos de profundos cambios. Una de las principales tendencias en el mundo post-pandémico es la consolidación de los procesos de pago tanto #[em online] como #[em offline]. Durante la pandemia, muchos minoristas se diversificaron e incrementaron su enfoque en los canales en línea.
           p La aparición de una experiencia de compra #[em offline] más “conectada” implica la necesidad de armonizar las soluciones de pago para mejorar la experiencia del cliente. El manejo de valores en el #[em retail] se refiere al conjunto de operaciones y registros en el punto de pago, así como a la administración de efectivo y otros medios de pago, por esto, es importante que sea un proceso gestionado por personas que mantengan relaciones éticas y profesionales con los clientes compradores, garantizando transparencia, confianza en cada transacción y una experiencia de compra segura, en los diversos canales que se ejecute.
         .col-10.col-md-8.col-lg-4
-          img(src='@/assets/curso/temas/tema2/imagen5.png', alt='Texto que describa la imagen')
+          img(src='@/assets/curso/temas/tema2/imagen5.png', alt='')
 
 
 </template>
